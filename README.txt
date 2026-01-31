@@ -7,3 +7,4 @@ https://x.com/bytecategory/status/2016019436734484829
 https://x.com/bytecategory/status/2016015816815153609
 https://x.com/bytecategory/status/2015957874472812657
 https://x.com/bytecategory/status/2015744872511140037
+https://monvvv.github.io/2019/10/09/A-weird-way-of-DES-implementation-of-Elang.html
