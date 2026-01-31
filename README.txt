@@ -1,2 +1,9 @@
-github.com/ChickenCoopGod/Iceberg3.0
-github.com/ChickenCoopGod/Iceberg2.0
+https://github.com/ChickenCoopGod/Iceberg3.0
+https://github.com/ChickenCoopGod/Iceberg2.0
+https://x.com/bytecategory/status/2016006213360644423
+https://x.com/bytecategory/status/2016085893220593791
+https://x.com/bytecategory/status/2016053585729954003
+https://x.com/bytecategory/status/2016019436734484829
+https://x.com/bytecategory/status/2016015816815153609
+https://x.com/bytecategory/status/2015957874472812657
+https://x.com/bytecategory/status/2015744872511140037
